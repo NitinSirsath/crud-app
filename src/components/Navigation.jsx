@@ -25,6 +25,7 @@ const Navigation = () => {
         <List className="nav-item">
         <Link to='/contact'>Contact</Link>
         </List>
+        
        
       </ul>
     </div>
